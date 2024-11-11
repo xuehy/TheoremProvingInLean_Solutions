@@ -1,0 +1,7 @@
+* Solutions to Theorem Proving in Lean
+
+Personal solutions to the exercises in the book [[https://leanprover.github.io/theorem_proving_in_lean4/][[📖 Theorem Proving in Lean]]].
+
+I did this during my learning of Lean4, so it may be tedious and ugly.
+
+However, the solutions should be correct since they passed the tests of Lean4.
